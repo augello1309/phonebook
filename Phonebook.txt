@@ -1,0 +1,8 @@
+Albert       Einstein     2259872566   
+Barack       Obama        2517774986  
+Bill         Clinton      6091274686  
+Donald       Trump        2135456179  
+George       Bush         8567560327  
+Hillary      Clinton      7659870989  
+Joe          Biden        2095643857  
+Joe          Felix        8567771234  
